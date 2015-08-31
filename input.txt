@@ -1,0 +1,70 @@
+123
+
+
+
+(+ 1 2)
+
+
+
+(* 3 4)
+
+
+
+(* 3 4 5 1 2 )
+
+
+
+(+ 1
+ (* 2 3) 
+ (* 4 2))
+
+
+
+(bind radius 12 )
+
+
+
+(bind len 10)
+ (bind breath 10)
+ (* len breath)
+
+
+
+(bind length 10) 
+
+(+ 1 2 3 4)
+
+
+ (bind breadth (+ length 1) ) 
+(bind length 11)
+  (* length breadth)  
+
+
+
+(bind a 10)
+ (bind b a)
+ (bind a 11)
+   (+ a b)
+
+ 
+
+()
+
+
+
+a
+
+
+
+(+ 1) 2)
+
+
+
+
+(1 2 3 4)
+
+
+
+(+ 1
+ (* 2 3) 
+  + (* 4 2))
